@@ -20,7 +20,7 @@ Untuk mencegah konflik personal saat melakukan peninjauan kode (*code review*) d
 
 | Kalimat yang DILARANG (Destruktif) |  Kalimat yang DIANJURKAN (Konstruktif) |
 | :--- | :--- |
-| *"Kode apaan nih? Berantakan banget, bikin error di mana-mana!"*  | *"Halo ges, fungsi di baris ini menyebabkan error saat di-run. Boleh tolong dicek kembali atau kita debug bersama?"*  |
+| *"Kode apaan nih? Berantakan banget, bikin error di mana-mana!"*  | *"Halo ges, fungsi di baris ini menyebabkan error saat di-run. Tolong dicek kembali ya, apa perlu kita debug bersama?"*  |
 | *"Format JSON-nya salah lagi. Lu niat ngerjain Backend nggak sih?"* | *"Izin konfirmasi, format JSON untuk endpoint `/api/menu` sepertinya ada perubahan dari kontrak awal. Apakah bisa disesuaikan kembali dengan dokumentasi API kita?"*  |
 | *"Hapus fungsi ini, gak efisien banget. Ganti pakai looping!"* | *"Menurut saya, bagian ini akan jauh lebih efisien jika kita optimalkan menggunakan looping agar performanya lebih cepat. Bagaimana menurutmu?"* |
 
